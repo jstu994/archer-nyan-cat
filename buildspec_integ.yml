@@ -9,4 +9,4 @@ phases:
       - echo $PIPELINE_STAGE
   build:
     commands:
-      - echo "Please add your integration tests" && exit 1
+      - echo "Please add your integration tests"
