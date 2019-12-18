@@ -3,7 +3,7 @@
 #   https://github.com/aws/amazon-ecs-cli-v2/docs/manifests/load-balanced-web-app.
 
 # Your application name will be used in naming your resources like log groups, services, etc.
-name: nyan-cat-app
+name: ecs-fargate-pilot
 # The "architecture" of the application you're running.
 type: Load Balanced Web App
 
